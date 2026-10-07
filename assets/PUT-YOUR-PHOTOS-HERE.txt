@@ -1,0 +1,12 @@
+Add your own files here:
+
+groom.jpg
+bride.jpg
+photo-1.jpg
+photo-2.jpg
+photo-3.jpg
+photo-4.jpg
+photo-5.jpg
+music.mp3 (optional)
+
+The website will automatically display your photos when these filenames are used.
